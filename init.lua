@@ -1,2 +1,3 @@
-require("config.lazy")
+require("plugins")
 require("chips.options")
+require("chips.mappings")
